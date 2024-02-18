@@ -1,6 +1,6 @@
-# Hi! My name is Krsiak Daniel 😄
+# Hi! My name is Krsiak Daniel 👋
 
-🌍 I am **React Developer** based in [Brno](https://maps.app.goo.gl/c4RBRzGN59uksowh8), Czech Republic.
+🌍 I am **Front End - React Developer** based in [Brno](https://maps.app.goo.gl/c4RBRzGN59uksowh8), Czech Republic.
 
 📫 How to reach me:
 
@@ -13,7 +13,7 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI, responsive 
 
 ## About me
 
-I am a React Developer with over 4 years of experience in creating user-friendly and responsive web applications. I have worked with JavaScript, TypeScript, React, and Redux, as well as other technologies such as Figma, and Tailwind CSS. I have a strong background in UI design, functional components, and code quality.
+I am **Front End - React Developer** with over 4 years of experience in creating user-friendly and responsive web applications. I have worked with JavaScript, TypeScript, React, and Redux, as well as other technologies such as Figma, and Tailwind CSS. I have a strong background in UI design, functional components, and code quality.
 
 In my previous roles, I have developed new features, updated legacy codebases, and implemented responsive design for various web projects, such as a chat solution for customer care teams, chatbot settings, and also bank website with search and exchange rates functionalities. 
 
