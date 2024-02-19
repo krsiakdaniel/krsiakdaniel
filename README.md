@@ -9,7 +9,7 @@
 - 💬 <https://www.linkedin.com/in/krsiakdaniel/>
 
 ## tl;dr
-I work with JavaScript, TypeScript, React, and Redux. I focus on UI, responsive design, and functional components that are easy to maintain.
+I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsive design, and functional components that are easy to maintain.
 
 ## About me
 
