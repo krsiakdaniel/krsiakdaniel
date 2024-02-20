@@ -4,17 +4,7 @@ I am **Front End - React Developer** based in Brno, Czech Republic.
 
 I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsive design, and functional components that are easy to maintain.
 
-📫 How to reach me:
-
-- 📱(+420) 734 496 308
-- ✉️ krsiak.daniel@gmail.com
-- 💬 <https://www.linkedin.com/in/krsiakdaniel/>
-
-🖥️ Web portfolio:
-
-- <https://www.krsiak.cz/>
-
-## Skills
+## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
@@ -28,7 +18,23 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 > _HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma_
 
-## About me
+## 📫 How to reach me
+
+- 📱(+420) 734 496 308
+- ✉️ krsiak.daniel@gmail.com
+- 💬 <https://www.linkedin.com/in/krsiakdaniel/>
+
+## 🖥️ Web portfolio
+
+My website: <https://www.krsiak.cz/>
+
+## 📝 Resume 
+
+Download my resume in PDF.
+
+[![resume](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/1c095868-ab0f-44a2-a54a-4916f8000732)](https://drive.google.com/file/d/1x0LWu8I_3aqW34TJbxkciqNGX642bdvF/view?usp=sharing)
+
+## 👨‍💻 About me
 
 I am **Front End - React Developer** with over 4 years of experience in creating user-friendly and responsive web applications. I have worked with JavaScript, TypeScript, React, and Redux, as well as other technologies such as Figma, and Tailwind CSS. I have a strong background in UI design, functional components, and code quality.
 
