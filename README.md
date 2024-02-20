@@ -18,7 +18,9 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 > _HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma_
 
-## 📫 How to reach me
+## 📫 Contact me
+
+You can call me, send email or chat with me on LinkedIn:
 
 - 📱(+420) 734 496 308
 - 📧 krsiak.daniel@gmail.com
