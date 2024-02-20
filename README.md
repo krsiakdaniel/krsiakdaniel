@@ -48,4 +48,4 @@ I have also led a QA automation team, setting up Playwright for E2E tests, writi
 
 I am passionate about delivering high-quality products that meet the needs and expectations of the users and the client.
 
-<img width="1000" alt="what-i-do" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/4d6a5a38-187e-4d86-af6d-3defc55e3c45">
+![what-is-it-i-do](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/d4c7dde2-2256-464a-9a43-2479815be5e1)
