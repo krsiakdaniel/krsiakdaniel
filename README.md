@@ -18,6 +18,10 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 > _HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma_
 
+## 🖥️ Web portfolio
+
+My website: <https://www.krsiak.cz/>
+
 ## 📫 Contact me
 
 You can call me, send email or chat with me on LinkedIn:
@@ -26,11 +30,7 @@ You can call me, send email or chat with me on LinkedIn:
 - 📧 krsiak.daniel@gmail.com
 - 💬 <https://www.linkedin.com/in/krsiakdaniel/>
 
-## 🖥️ Web portfolio
-
-My website: <https://www.krsiak.cz/>
-
-## 📝 Resume 
+## 📝 Resume
 
 Download my resume in PDF.
 
