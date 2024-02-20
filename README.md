@@ -16,13 +16,17 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
 
-> _HTML, CSS, Tailwind CSS, Sass, Figma, JavaScript, TypeScript, React, Next.js_
+> _HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma_
 
 ## About me
 
