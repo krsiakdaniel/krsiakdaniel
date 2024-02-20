@@ -1,6 +1,6 @@
 # Hi! My name is Krsiak Daniel 👋
 
-I am **Front End - React Developer** based in [Brno](https://maps.app.goo.gl/c4RBRzGN59uksowh8), Czech Republic.
+I am **Front End - React Developer** based in Brno, Czech Republic.
 
 I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsive design, and functional components that are easy to maintain.
 
