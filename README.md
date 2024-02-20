@@ -16,13 +16,13 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
 
-> _HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Sass, Figma_
+> _HTML, CSS, Tailwind CSS, Sass, Figma, JavaScript, TypeScript, React, Next.js_
 
 ## About me
 
