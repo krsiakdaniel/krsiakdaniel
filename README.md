@@ -10,6 +10,10 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 - ✉️ krsiak.daniel@gmail.com
 - 💬 <https://www.linkedin.com/in/krsiakdaniel/>
 
+🖥️ Web portfolio:
+
+- <https://www.krsiak.cz/>
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
