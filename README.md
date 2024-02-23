@@ -4,14 +4,6 @@ I am **React Developer** based in Brno, Czech Republic.
 
 I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsive design, and functional components that are easy to maintain.
 
-## 🛠️ Skills
-
-HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma.
-
-<img width="1582" alt="screenshot-1" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/94d3a533-d4d8-4c69-a849-106435642f94">
-
-<img width="1582" alt="screenshot-2" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/71b32129-59b8-479e-a4f1-9c82589ccfd5">
-
 ## ⚡ Portfolio Website
 
 Website: <https://krsiak.cz/>
@@ -29,6 +21,14 @@ You can call me, send me an email, or chat with me on LinkedIn:
 Download my resume in PDF.
 
 [![resume](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/1c095868-ab0f-44a2-a54a-4916f8000732)](https://drive.google.com/file/d/1x0LWu8I_3aqW34TJbxkciqNGX642bdvF/view?usp=sharing)
+
+## 🛠️ Skills
+
+HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma.
+
+<img width="1582" alt="screenshot-1" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/94d3a533-d4d8-4c69-a849-106435642f94">
+
+<img width="1582" alt="screenshot-2" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/71b32129-59b8-479e-a4f1-9c82589ccfd5">
 
 ## 👨‍💻 About me
 
