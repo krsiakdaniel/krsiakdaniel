@@ -6,21 +6,15 @@ I work with JavaScript, TypeScript, React, and Redux. I focus on UI/UX, responsi
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=scss)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma.
 
-> _HTML, CSS, Tailwind CSS, Sass, JavaScript, TypeScript, React, Next.js, Figma_
+<img width="1582" alt="screenshot-1" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/94d3a533-d4d8-4c69-a849-106435642f94">
 
-## 🖥️ Portfolio website
+<img width="1582" alt="screenshot-2" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/71b32129-59b8-479e-a4f1-9c82589ccfd5">
 
-My website: <https://krsiak.cz/>
+## ⚡ Portfolio Website
+
+Website: <https://krsiak.cz/>
 
 ## 📫 Contact me
 
@@ -50,10 +44,10 @@ Now I create user-friendly and responsive web applications. I work with **JavaSc
 
 I have led QA automation teams, setting up Cypress and Playwright for E2E tests, writing test scripts in JavaScript and TypeScript, and coordinating unit and integration tests. Also, I was a team leader of localization and translation teams.
 
-![about-me](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/385eb904-f166-408e-8e38-c7a07d7374c3)
+<img width="1582" alt="screenshot-3" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/7dabf9dc-1a8f-4d13-95c1-87f17f06d119">
 
 ## 💻 Work
 
-In my previous roles, I have developed new features, updated legacy codebases, and implemented responsive design for various web projects, such as a chat solution for customer care teams, chatbot settings, and also bank website with search and exchange rates functionalities. 
+In my previous roles, I have developed new features, updated legacy codebases, and implemented responsive design for various web projects, such as a chat solution for customer care teams, chatbot settings, and also bank website with search and exchange rates functionalities.
 
-![what-is-it-i-do](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/d4c7dde2-2256-464a-9a43-2479815be5e1)
+<img width="1582" alt="screenshot-4" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/35a855aa-e21c-4e00-bde5-ba007e3932d3">
