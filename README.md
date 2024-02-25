@@ -50,4 +50,4 @@ I have led QA automation teams, setting up Cypress and Playwright for E2E tests,
 
 In my previous roles, I have developed new features, updated legacy codebases, and implemented responsive design for various web projects, such as a chat solution for customer care teams, chatbot settings, and also bank website with search and exchange rates functionalities.
 
-<img width="1582" alt="screenshot-4" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/35a855aa-e21c-4e00-bde5-ba007e3932d3">
+<img width="1582" alt="screenshot-4" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/90ad5e56-9303-4556-8e1f-149bbcf221e7">
