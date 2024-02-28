@@ -40,7 +40,7 @@ In the past, I used to create websites and set up WordPress for small businesses
 
 Now I create user-friendly and responsive web applications. I work with **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Redux**, also big fan of **Figma**, and **Tailwind CSS**. I have a strong background in UI design, functional components, and code quality.
 
-### QA Team Leader - 3 years
+### QA Team Leader - 2 years
 
 I have led QA automation teams, setting up Cypress and Playwright for E2E tests, writing test scripts in JavaScript and TypeScript, and coordinating unit and integration tests. Also, I was a team leader of localization and translation teams.
 
