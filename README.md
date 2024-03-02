@@ -1,4 +1,4 @@
-# Hi! I am React Developer - Daniel Kršiak 👋
+# Hi 👋 I am Daniel Kršiak - React Developer
 
 - I am **React Developer** based in Brno, Czech Republic 🇨🇿
 - I work with JavaScript, TypeScript, React, and Redux. I focus on UI and responsive design.
@@ -26,4 +26,4 @@ Download my resume in PDF.
 
 HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Redux, Figma.
 
-<img width="1582" alt="screenshot-1" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/a806c932-2316-4537-9800-cd8ebae51ff4">
+![screenshot-web](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/eb8fccb0-651b-46a4-9687-b483fea64aaa)
