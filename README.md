@@ -1,8 +1,8 @@
-# Hi! My name is Daniel Kršiak 👋
+# Hi! I am React Developer - Daniel Kršiak 👋
 
-I am **React Developer** based in Brno, Czech Republic.
-
-I work with JavaScript, TypeScript, React, Next.js, and Redux. I focus on UI/UX, responsive design, and functional components that are easy to maintain.
+- I am **React Developer** based in Brno, Czech Republic 🇨🇿
+- I work with JavaScript, TypeScript, React, and Redux. I focus on UI and responsive design.
+- I also like **QA Automation** and writing tests.
 
 ## ⚡ Portfolio Website
 
@@ -27,27 +27,3 @@ Download my resume in PDF.
 HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Redux, Figma.
 
 <img width="1582" alt="screenshot-1" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/a806c932-2316-4537-9800-cd8ebae51ff4">
-
-<img width="1582" alt="screenshot-2" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/71b32129-59b8-479e-a4f1-9c82589ccfd5">
-
-## 👨‍💻 About me
-
-### Front End Developer - 10 years
-
-In the past, I used to create websites and set up WordPress for small businesses as a freelancer.
-
-### React Developer - 4 years
-
-Now I create user-friendly and responsive web applications. I work with **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Redux**, also big fan of **Figma**, and **Tailwind CSS**. I have a strong background in UI design, functional components, and code quality.
-
-### QA Team Leader - 2 years
-
-I have led QA automation teams, setting up Cypress and Playwright for E2E tests, writing test scripts in JavaScript and TypeScript, and coordinating unit and integration tests. Also, I was a team leader of localization and translation teams.
-
-<img width="1582" alt="screenshot-3" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/7dabf9dc-1a8f-4d13-95c1-87f17f06d119">
-
-## 💻 Work
-
-In my previous roles, I have developed new features, updated legacy codebases, and implemented responsive design for various web projects, such as a chat solution for customer care teams, chatbot settings, and also bank website with search and exchange rates functionalities.
-
-<img width="1582" alt="screenshot-4" src="https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/90ad5e56-9303-4556-8e1f-149bbcf221e7">
