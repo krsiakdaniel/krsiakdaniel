@@ -24,7 +24,6 @@
 
 ## 🛠️ Skills
 
-![skills](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/8b40d734-9ce0-4209-a185-aaf39602d402)
+![skills](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/46078e61-3db1-4c5d-835c-8fee4900f51e)
 
-
-> HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next, Redux, Jest, Playwright, Figma
+> HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next, Redux, GraphQL, Jest, Playwright, Figma
