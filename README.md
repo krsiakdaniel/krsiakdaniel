@@ -20,7 +20,7 @@
 
 ## 📝 Resume
 
-[![resume](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/1c095868-ab0f-44a2-a54a-4916f8000732)](https://drive.google.com/file/d/1x0LWu8I_3aqW34TJbxkciqNGX642bdvF/view?usp=sharing)
+[![resume](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/1c095868-ab0f-44a2-a54a-4916f8000732)](https://drive.google.com/file/d/1b-PWUOauMnFecRuYX7K85xZnwFRMWFR5/view?usp=sharing)
 
 ## 🛠️ Skills
 
