@@ -1,4 +1,4 @@
-# Hi 👋 I am Daniel Krsiak - React Developer
+# Hi 👋 I am Daniel Krsiak. ⚛️ React Developer.
 
 - I am **React Developer** based in Brno, Czech Republic 🇨🇿
 - I work with **JavaScript**, **TypeScript**, **React**, and **Redux**. I focus on UI and responsive design.
