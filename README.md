@@ -29,6 +29,6 @@
 - 📧 krsiak.daniel@gmail.com
 - 💬 <https://www.linkedin.com/in/krsiakdaniel/>
 
-## Scan to add my contact
+## 📱 Scan to add my contact
 
 <img src="https://github.com/user-attachments/assets/e3f7b70f-6a56-459d-b7f4-afc3d78a4f6e" width="256" height="256" alt="vcard"/>
