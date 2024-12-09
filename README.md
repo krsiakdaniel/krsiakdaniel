@@ -9,7 +9,7 @@
 
 <https://krsiak.cz/>
 
-## 💻 Repository
+## 💻 My Personal Website Repo
 
 <https://github.com/krsiakdaniel/portfolio-website-krsiak-cz>
 
