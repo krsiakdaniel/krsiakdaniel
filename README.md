@@ -21,7 +21,7 @@
 
 ## 📝 Resume
 
-[![resume](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/1c095868-ab0f-44a2-a54a-4916f8000732)](https://drive.google.com/file/d/1NBBJJaK_zsvqtNiiF388kygQ4gqi0mLD/view?usp=sharing)
+See my **resume in PDF for download or print** on my website: https://krsiak.cz/resume
 
 ## 📫 Contact me
 
