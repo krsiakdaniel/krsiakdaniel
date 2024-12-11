@@ -5,11 +5,11 @@
 - I focus on **UI** and **responsive design**.
 - I also like **QA Automation** and writing **tests**.
 
-## ⚡ Portfolio Website
+## ⚡ Personal Website
 
 <https://krsiak.cz/>
 
-## 💻 My Personal Website Repo
+## 💻 Personal Website Repo
 
 <https://github.com/krsiakdaniel/portfolio-website-krsiak-cz>
 
