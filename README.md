@@ -15,20 +15,20 @@
 
 ## 🛠️ Skills
 
-![skills](https://github.com/krsiakdaniel/krsiakdaniel/assets/564906/46078e61-3db1-4c5d-835c-8fee4900f51e)
+<img src="https://github.com/user-attachments/assets/46e98ea4-5b9c-45e8-9a92-7187807ff54a" alt="skills" height="56" />
 
-> HTML, CSS, Sass, Tailwind CSS, JavaScript, TypeScript, React, Next, Redux, GraphQL, Jest, Playwright, Figma
+> JavaScript, TypeScript, React, Next.js, Redux, GraphQL, JEST, Playwright, HTML, CSS, Sass, Tailwind CSS, Sketch, Adobe XD, Figma, Storybook
 
 ## 📝 Resume
 
 See my **resume in PDF for download or print** on my website: https://krsiak.cz/resume
 
-## 📫 Contact me
+## 📫 Contact Me
 
 - 📱(+420) 734 496 308
 - 📧 krsiak.daniel@gmail.com
 - 💬 <https://www.linkedin.com/in/krsiakdaniel/>
 
-## 📱 Scan to add my contact
+## 📱 Scan To Add My Contact
 
 <img src="https://github.com/user-attachments/assets/e3f7b70f-6a56-459d-b7f4-afc3d78a4f6e" width="256" height="256" alt="vcard"/>
