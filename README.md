@@ -22,7 +22,7 @@ I am based in Brno, Czech Republic 🇨🇿
 
 ## 📝 Resume
 
-See my **resume in PDF for download or print** on my website: https://krsiak.cz/resume
+Read my **resume in PDF**: https://krsiak.cz/resume
 
 ## 📫 Contact Me
 
