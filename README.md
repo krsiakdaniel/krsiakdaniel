@@ -1,9 +1,10 @@
-# Hi 👋 I am Daniel Krsiak ⚛️ React Developer
+# Hi 👋 I am Daniel Krsiak ⚛️ React Developer — TypeScript & Next.js
 
-- I am **React Developer** based in Brno, Czech Republic 🇨🇿
-- I work with **React**, **TypeScript**, **Next.js** and **Redux**.
-- I focus on **UI** and **responsive design**.
-- I also like **QA Automation** and writing **tests**.
+I am based in Brno, Czech Republic 🇨🇿
+
+- I mainly work with: **React**, **TypeScript**, **Next.js**, **Redux**
+- I focus on: **UI**, **UX**, **Responsive Design**
+- I also like: **QA Automation**, writing **E2E** tests and **Unit** tests
 
 ## ⚡ Personal Website
 
