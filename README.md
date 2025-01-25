@@ -18,7 +18,7 @@ I am based in Brno, Czech Republic 🇨🇿
 
 <img src="https://github.com/user-attachments/assets/46e98ea4-5b9c-45e8-9a92-7187807ff54a" alt="skills" height="56" />
 
-> JavaScript, TypeScript, React, Next.js, Redux, GraphQL, JEST, Playwright, HTML, CSS, Sass, Tailwind CSS, Sketch, Adobe XD, Figma, Storybook
+> JavaScript, TypeScript, React, Next.js, Redux, GraphQL, JEST, Playwright, HTML, CSS, Sass, Tailwind CSS, Storybook, Figma, Adobe XD, Sketch
 
 ## 📝 Resume
 
