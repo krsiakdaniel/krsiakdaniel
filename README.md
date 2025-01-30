@@ -1,35 +1,37 @@
-# Hi 👋 I am Daniel Krsiak ⚛️ React Developer — TypeScript & Next.js
+# Hi there! 👋 I'm Daniel Kršiak ⚛️
 
-I am based in Brno, Czech Republic 🇨🇿
+## React Developer — Specializing in TypeScript & Next.js
 
-- I mainly work with: **React**, **TypeScript**, **Next.js**, **Redux**
-- I focus on: **UI**, **UX**, **Responsive Design**
-- I also like: **QA Automation**, writing **E2E** tests and **Unit** tests
+Based in Brno, Czech Republic 🇨🇿
+
+- **Technologies I work with:** React, TypeScript, Next.js
+- **Focus areas:** UI, UX, Responsive Design
+- **Other interests:** Writing E2E and Unit tests, and QA Automation
 
 ## ⚡ Personal Website
 
-<https://krsiak.cz/>
+Visit my website: [krsiak.cz](https://krsiak.cz/)
 
-## 💻 Personal Website - Repo
+## 💻 Personal Website Repository
 
-<https://github.com/krsiakdaniel/portfolio-website-krsiak-cz>
+Check out my code: [portfolio-website-krsiak-cz](https://github.com/krsiakdaniel/portfolio-website-krsiak-cz)
 
 ## 🛠️ Skills
 
-<img src="https://github.com/user-attachments/assets/46e98ea4-5b9c-45e8-9a92-7187807ff54a" alt="skills" height="auto" />
+![Skills](https://github.com/user-attachments/assets/e84c2602-9400-4449-ad3e-645791699bd4)
 
-> JavaScript, TypeScript, React, Next.js, Redux, GraphQL, JEST, Playwright, HTML, CSS, Sass, Tailwind CSS, Storybook, Figma, Adobe XD, Sketch
+> JavaScript, TypeScript, React, Next.js, Redux, GraphQL, JEST, Playwright, HTML, CSS, Sass, Tailwind CSS, Sketch, Adobe XD, Figma, Storybook
 
 ## 📝 Resume
 
-Read my **resume in PDF**: https://krsiak.cz/resume
+Read my [resume in PDF](https://krsiak.cz/resume)
 
 ## 📫 Contact Me
 
-- 📱(+420) 734 496 308
-- 📧 krsiak.daniel@gmail.com
-- 💬 <https://www.linkedin.com/in/krsiakdaniel/>
+- 📱 Phone: (+420) 734 496 308
+- 📧 Email: krsiak.daniel@gmail.com
+- 💬 LinkedIn: [Daniel Kršiak](https://www.linkedin.com/in/krsiakdaniel/)
 
-## 📱 Scan To Add My Contact
+## 📱 Scan to Add My Contact
 
-<img src="https://github.com/user-attachments/assets/e3f7b70f-6a56-459d-b7f4-afc3d78a4f6e" width="256" height="256" alt="vcard"/>
+<img src="https://github.com/user-attachments/assets/e3f7b70f-6a56-459d-b7f4-afc3d78a4f6e" width="256" height="256" alt="vCard"/>
