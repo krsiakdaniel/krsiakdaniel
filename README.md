@@ -8,7 +8,7 @@ Based in Brno, Czech Republic 🇨🇿
 - **Focus areas:** UI, UX, Responsive Design
 - **Other interests:** Writing E2E and Unit tests, and QA Automation
 
-## ⚡ Personal Website
+## 🔗 Personal Website
 
 Visit my website: [krsiak.cz](https://krsiak.cz/)
 
