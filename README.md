@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm `Daniel Kršiak`
+# 👋 Hi there! I'm **Daniel Kršiak**
 
-## ⚛️ React Developer — Specializing in TypeScript & Next.js
+## ⚛️ React Developer — TypeScript & Next.js
 
 Based in Brno, Czech Republic 🇨🇿
 
