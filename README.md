@@ -28,8 +28,6 @@ Read my [resume in PDF](https://krsiak.cz/resume)
 
 ## 📫 Contact Me
 
-- 📱 Phone: (+420) 734 496 308
-- 📧 Email: krsiak.daniel@gmail.com
 - 💬 LinkedIn: [Daniel Kršiak](https://www.linkedin.com/in/krsiakdaniel/)
 
 ## 📱 Scan to Add My Contact
