@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **Daniel Kršiak**
+# 👋 Hi! My name is Daniel Kršiak
 
 ## ⚛️ React Developer — TypeScript & Next.js
 
@@ -26,10 +26,14 @@ Check out my code: [portfolio-website-krsiak-cz](https://github.com/krsiakdaniel
 
 Read my [resume in PDF](https://krsiak.cz/resume)
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 💬 LinkedIn: [Daniel Kršiak](https://www.linkedin.com/in/krsiakdaniel/)
+Get in touch for collaboration opportunities or questions about the project.
 
-## 📱 Scan to Add My Contact
+- 👨🏻‍💻 **Daniel Kršiak**: React Developer
+- 📧 **Email**: [krsiak.daniel@gmail.com](mailto:krsiak.daniel@gmail.com)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/krsiakdaniel](https://www.linkedin.com/in/krsiakdaniel)
+
+## 📱 Scan - Add My Contact
 
 <img src="https://github.com/user-attachments/assets/e3f7b70f-6a56-459d-b7f4-afc3d78a4f6e" width="256" height="256" alt="vCard"/>
