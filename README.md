@@ -6,7 +6,7 @@ Based in Brno, Czech Republic 🇨🇿
 
 - **Technologies I work with:** React, TypeScript, Next.js
 - **Focus areas:** UI, UX, Responsive Design
-- **Other interests:** Writing E2E and Unit tests, and QA Automation
+- **Other interests:** QA Automation, writing E2E and Unit tests, CI/CD
 
 ## 🔗 Personal Website
 
