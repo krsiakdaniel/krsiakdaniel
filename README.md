@@ -24,7 +24,7 @@ Check out my code: [portfolio-website-krsiak-cz](https://github.com/krsiakdaniel
 
 ## 📝 Resume
 
-Read my [resume in PDF](https://krsiak.cz/resume)
+Read about my work experience: <https://krsiak.cz/resume>
 
 ## 📫 Contact
 
