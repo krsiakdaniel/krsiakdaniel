@@ -2,7 +2,7 @@
 
 ## ⚛️ React Developer — TypeScript & Next.js
 
-Based in Brno, Czech Republic 🇨🇿
+Based in Czech Republic 🇨🇿
 
 - **Technologies I work with:** React, TypeScript, Next.js
 - **Focus areas:** UI, UX, Responsive Design
